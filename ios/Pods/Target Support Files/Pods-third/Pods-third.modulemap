@@ -1,6 +1,0 @@
-module Pods_third {
-  umbrella header "Pods-third-umbrella.h"
-
-  export *
-  module * { export * }
-}

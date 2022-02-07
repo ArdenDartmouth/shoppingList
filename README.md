@@ -8,4 +8,4 @@
 * Empty the purchased item list
 
 ### Process
-<img src="./screenshots/1.png" width="117" height="253" >
+<img src="./screenshots/1.png" width="500" height="1100" >

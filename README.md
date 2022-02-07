@@ -43,7 +43,8 @@
 </kbd>
 
 ### Remarks
-There is a folder called `ios` in my local directory but it cannot be uploaded to gitHub. It may be due to the large size. Here is the info of the folder:
+There is a folder called `ios` in my local directory but it cannot be uploaded to gitHub. It may be due to the large size. Here is the info of the folder.
+
 <kbd>
 <img src="./screenshots/7.png" width="350"  >
 </kbd>

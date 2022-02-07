@@ -9,5 +9,5 @@
 
 ### Process
 <kbd>
-<img src="./screenshots/1.png" width="400" height="900"  >
+<img src="./screenshots/1.png" width="350"  >
 </kbd>
